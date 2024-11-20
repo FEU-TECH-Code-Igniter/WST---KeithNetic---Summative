@@ -39,25 +39,22 @@
 
 ## Overview
 
-**DataLogo** is a demo IT solution developed, intended to illustrate a simplified payment platform using CodeIgniter 4 and Tailwind CSS. This project serves as a prototype for online payment processing, focusing on user-friendliness and security in transaction handling.
-
+**KeithNetic** is a group of IT Students majoring in Animation and Game Development, intended to create and offer a website with a simplified way of giving out travels and tours services. Utilizing CodeIgniter 4, PHP, and CSS (Bootstrap), the group aims to provide an intuitive and user-friendly platform for booking and managing travel plans, ensuring a seamless experience for users.
 ### Key Components
 
 - User authentication (registration and login)
 - Secure transaction management
-- Basic user dashboard for transaction insights
-- Clean, efficient interface using Tailwind CSS
+- A basic user dashboard for travel and tour insights
+- A clean, efficient interface using Bootstrap CSS
 
 ### Technology
 
 ![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 
@@ -71,8 +68,5 @@
 | Title                | Purpose                                                  | Link              |
 |----------------------|----------------------------------------------------------|-------------------|
 | CodeIgniter 4 Docs   | Reference for CodeIgniter 4 framework usage              | https://codeigniter.com/userguide4 |
-| Tailwind CSS Docs    | Tailwind CSS guidelines and utilities                    | https://tailwindcss.com/docs       |
 | MySQL Documentation  | Resource for MySQL database management                   | https://dev.mysql.com/doc          |
-| Infinity Free Server | PHP Server for both MySQL and PHP (CodeIgniter)          | https://www.infinityfree.com/      |
-| Docker               | Reference for docker                                     | https://www.docker.com/            |
 | XAMPP                | XAMPP is the most popular PHP development environment    | https://www.apachefriends.org/     |
