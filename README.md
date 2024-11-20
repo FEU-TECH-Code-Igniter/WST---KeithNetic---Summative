@@ -7,16 +7,16 @@
   <a href="https://github.com/zyx-0314/">
     <img src="./assets/nyebe_logo_wt_250px.png" alt="Nyebe" width="130" height="130">
   </a>
-  <h3 align="center">DataLogo: A Demo IT Solution</h3>
+  <h3 align="center">Keithnetic: Charging Every Moment With a Purpose</h3>
 </div>
 
 <div align="center">
-  Experience a simplified IT process with DataLogo, showcasing the capabilities of CodeIgniter 4 and Tailwind CSS.
+    Experience a simplified travel planning process with Keithnetic, offering an simplified way to book for travels and tours.
 </div>
 
 <br/>
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WST-TX32-Demo-Project)
+![](https://github.com/FEU-TECH-Code-Igniter/WST---KeithNetic---Summative.git)
 
 ---
 
