@@ -1,0 +1,1 @@
+<?= $this->include('layout/landing_layout') ?>
